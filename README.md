@@ -20,11 +20,15 @@ npm install my-crazy-module --save
 pip install -r requirements.txt
 ```
 
+Download (Extras): 
+- [NPM](https://www.npmjs.com/get-npm)
+- [VS CODE](https://code.visualstudio.com/)
+
 ## Usage example
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+_For more examples and usage, please refer to the [ReadTheDoc][ReadTheDoc]._
 
 
 ## Release History
@@ -72,7 +76,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [appveyor-image]: https://ci.appveyor.com/api/projects/status/8dxrtild5jew79pq?svg=true
 [appveyor-url]: https://ci.appveyor.com/project/PandorAstrum/vault
 
-[wiki]: https://github.com/yourname/yourproject/wiki
+[ReadTheDoc]: https://github.com/yourname/yourproject/wiki
 
 <!-- Header Pictures and Other media-->
 [header-pic]: header.png
