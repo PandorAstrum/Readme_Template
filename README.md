@@ -28,6 +28,21 @@ Download (Extras):
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
+To compile the project run:
+```
+truffle compile
+```
+
+To migrate the project run:
+```
+truffle migrate
+```
+
+To test the project run:
+```
+truffle test
+```
+
 _For more examples and usage, please refer to the [ReadTheDoc][ReadTheDoc]._
 
 
